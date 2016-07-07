@@ -1,0 +1,19 @@
+{
+    "name": "loopsframework/glue",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": { "": "src/" }
+    },
+    "require": {
+        "loopsframework/base": "dev-master"
+    },
+    "suggest": {
+        "docker-php/docker-php": "Docker PHP (service: dockerphp)"
+    },
+    "authors": [
+        {
+            "name": "Lukas",
+            "email": "lukas@loopsframwork.com"
+        }
+    ]
+}
